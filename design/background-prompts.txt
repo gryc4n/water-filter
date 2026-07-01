@@ -1,0 +1,14 @@
+#background-1
+Minimalist premium website background with transparent background, elegant water-inspired decorative elements placed only along the edges and corners, subtle flowing water waves, soft water splashes, transparent droplets and bubbles, clean luxury aesthetic, modern SaaS website style, lots of negative space in the center, isolated PNG, ultra clean composition, soft blue and white tones, realistic water effects, minimalistic design, no text, no objects, no people, no products, no shadows, center area completely empty for website content, high-end web design decoration, transparent background
+
+#background-2
+Transparent website background decorated with realistic water bubbles and floating droplets along the left and right edges, clean minimalist aesthetic, premium SaaS website style, soft translucent blue highlights, isolated PNG, lots of empty space in the center, elegant and modern composition, no text, no objects, no people, no shadows, center area completely clear
+
+#background-3
+Luxury transparent background for a modern water filtration website, featuring elegant water splash accents in the corners, soft flowing liquid shapes, realistic crystal clear water effects, minimalist web design style, isolated PNG, plenty of negative space in the center, subtle blue color palette, no text, no products, no people, empty center for hero content
+
+#background-4
+Modern abstract water-themed website decoration with transparent background, subtle fluid wave elements wrapping around the edges, premium clean aesthetic, soft translucent liquid glass effects, minimalist composition, isolated PNG, center area fully empty, realistic water textures, elegant blue and white color scheme, no text, no objects, no people - decoration only flowing on left side 
+
+#background-5
+High-end web design background with transparent background, realistic water streams, droplets and gentle splashes positioned around the borders, sophisticated minimalist style, isolated PNG, lots of negative space in the middle, clean premium aesthetic, soft blue tones, no text, no products, no people, center completely empty for website layout - decoration only flowing on right side
