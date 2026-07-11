@@ -7,12 +7,6 @@ Built to practice responsive web design, semantic HTML, and modern CSS technique
 
 ## 📸 Preview
 
-### Hero Section
-
-![HydroFlow Hero](./assets/screenshots/hero-prewiev.png)
-
-### Full Page Preview
-
 ![HydroFlow Full Page](./assets/screenshots/HydroFlow.png)
 
 ---
