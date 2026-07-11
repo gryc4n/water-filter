@@ -13,7 +13,7 @@ Built to practice responsive web design, semantic HTML, and modern CSS technique
 
 ### Full Page Preview
 
-![HydroFlow Full Page](./assets/screenshots/HydroFlow.pdf)
+![HydroFlow Full Page](./assets/screenshots/HydroFlow.png)
 
 ---
 
