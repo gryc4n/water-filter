@@ -4,23 +4,16 @@ A modern and fully responsive landing page designed for **HydroFlow**, a fiction
 
 Built to practice responsive web design, semantic HTML, and modern CSS techniques.
 
----
-
-## 🌐 Live Demo
-
-🔗 **Coming Soon**
-
----
 
 ## 📸 Preview
 
 ### Hero Section
 
-![HydroFlow Hero](./assets/screenshots/hero-section.png)
+![HydroFlow Hero](./assets/screenshots/hero-prewiev.png)
 
 ### Full Page Preview
 
-![HydroFlow Full Page](./assets/screenshots/full-page.png)
+![HydroFlow Full Page](./assets/screenshots/HydroFlow.pdf)
 
 ---
 
@@ -100,28 +93,4 @@ index.html
 
 in your browser.
 
-## 📸 Screenshots
-
-Add project screenshots inside:
-
-```text
-assets/screenshots/
-```
-
-Example:
-
-```text
-assets/screenshots/
-├── hero-section.png
-├── full-page.png
-└── mobile-version.png
-```
-
----
-
-## 👨‍💻 Author
-
-Created by **gryc4n**
-
----
 
